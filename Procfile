@@ -1,1 +1,1 @@
-web: gunicorn fla:app
+worker: fla.py
