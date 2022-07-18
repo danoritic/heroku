@@ -13,7 +13,7 @@ def webhook():
 
         fulfillmentText="Hiya"
     return{
-        "filfillmentText": fulfillmentText,
+        "fulfillmentText": fulfillmentText,
         "source":"webhookdata"
         }
 #running the app
